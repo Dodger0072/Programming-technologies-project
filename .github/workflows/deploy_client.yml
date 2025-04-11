@@ -27,19 +27,19 @@ jobs:
       # 2. Тесты и проверки
       # ----------------------
       - name: 📦 Install dependencies
-        run: cd /client-giftly && flutter pub get
+        run: cd client-giftly && flutter pub get
 
       - name: 🧪 Run unit tests
-        run: cd /client-giftly && flutter test
+        run: cd сlient-giftly && flutter test
 
       - name: 🔍 Static analysis
-        run: cd /client-giftly && flutter analyze
+        run: cd client-giftly && flutter analyze
 
       - name: 🖌 Check formatting
-        run: cd /client-giftly && dart format --set-exit-if-changed .
+        run: cd client-giftly && dart format --set-exit-if-changed .
 
       - name: � Run widget tests
-        run: cd /client-giftly && flutter test test/widget_test.dart
+        run: cd client-giftly && flutter test test/widget_test.dart
 
       # ----------------------
       # 3. Сборка и деплой
