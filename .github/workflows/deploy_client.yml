@@ -21,7 +21,7 @@ jobs:
           flutter-version: '3.29.2'
           channel: 'stable'
           cache: true
-          cache-key: ${{ runner.os }}-flutter-${{ hashFiles('frontend/pubspec.lock') }}
+          cache-key: ${{ runner.os }}-flutter-${{ hashFiles('client-giftly/pubspec.lock') }}
 
       # ----------------------
       # 2. Тесты и проверки
@@ -30,7 +30,7 @@ jobs:
         run: cd client-giftly && flutter pub get
 
       - name: 🧪 Run unit tests
-        run: cd сlient-giftly && flutter test
+        run: cd client-giftly && flutter test
 
       - name: 🔍 Static analysis
         run: cd client-giftly && flutter analyze
@@ -45,18 +45,16 @@ jobs:
       # 3. Сборка и деплой
       # ----------------------
       - name: 🏭 Build web release
-        run: cd /client-giftly && flutter build web --release --no-tree-shake-icons
+        run: cd client-giftly && flutter build web --release --no-tree-shake-icons
         if: success()  # Только если все тесты пройдены
 
       - name: 📱 Build APK
-        run: cd /client-giftly && flutter build apk --release
+        run: cd client-giftly && flutter build apk --release
         if: success()
 
       - name: 📤 Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: app-release
-          path: frontend/build/app/outputs/flutter-apk/app-release.apk
+          path: client-giftly/build/app/outputs/flutter-apk/app-release.apk
         if: success()
-
-      
