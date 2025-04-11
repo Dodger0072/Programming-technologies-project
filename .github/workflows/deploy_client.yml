@@ -59,10 +59,4 @@ jobs:
           path: frontend/build/app/outputs/flutter-apk/app-release.apk
         if: success()
 
-      - name: 🚀 Deploy to Firebase
-        uses: w9jds/firebase-action@v2
-        with:
-          args: deploy --only hosting
-        env:
-          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-        if: success() && github.ref == 'refs/heads/main'  # Деплой только из main
+      
