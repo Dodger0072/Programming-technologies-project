@@ -1,0 +1,36 @@
+name: Deploy Flutter Web
+
+on:
+  push:
+    branches: [ main ]
+    paths: 
+      - 'client/**'  # Триггерим только при изменениях в клиенте
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.29.2'
+
+      - name: Install dependencies
+        run: |
+          cd client
+          flutter pub get
+
+      - name: Build web
+        run: |
+          cd client
+          flutter build web --release
+
+      - name: Deploy to Firebase
+        uses: w9jds/firebase-action@v2
+        with:
+          args: deploy --only hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
