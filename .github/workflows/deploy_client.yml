@@ -3,7 +3,7 @@ name: Flutter CI/CD
 on:
   push:
     branches: [main]
-    paths: ['frontend/**']  # Триггерим только при изменениях во фронтенде
+    
 
 jobs:
   test-and-deploy:
