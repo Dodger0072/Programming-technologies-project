@@ -4,13 +4,13 @@ on:
   push:
     branches: [main]
 
-jobs:
-  test-and-deploy:
-    runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./client-giftly  # Указываем рабочую директорию один раз для всех шагов
+    paths:
+     - 'client-giftly/**'
 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
     steps:
       # ----------------------
       # 1. Подготовка
@@ -43,21 +43,3 @@ jobs:
 
       - name: � Run widget tests
         run: flutter test test/widget_test.dart
-
-      # ----------------------
-      # 3. Сборка и деплой
-      # ----------------------
-      - name: � Build web release
-        run: flutter build web --release --no-tree-shake-icons
-        if: success()
-
-      - name: 📱 Build APK
-        run: flutter build apk --release
-        if: success()
-
-      - name: 📤 Upload APK artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: app-release
-          path: ./client-giftly/build/app/outputs/flutter-apk/app-release.apk
-        if: success()
