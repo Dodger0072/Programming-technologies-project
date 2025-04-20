@@ -3,14 +3,13 @@ name: Flutter CI/CD
 on:
   push:
     branches: [main]
-
     paths:
-     - 'client-giftly/**'
+      - 'client-giftly/**'
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       # ----------------------
       # 1. Подготовка
@@ -21,10 +20,10 @@ jobs:
       - name: 🛠 Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.29.2'
+          flutter-version: '3.29.2' # Убедитесь, что версия существует
           channel: 'stable'
           cache: true
-          cache-key: ${{ runner.os }}-flutter-${{ hashFiles('**/pubspec.lock') }}
+          cache-key: ${{ runner.os }}-flutter-${{ hashFiles('client-giftly/pubspec.lock') }}
 
       # ----------------------
       # 2. Тесты и проверки
@@ -41,5 +40,5 @@ jobs:
       - name: 🖌 Check formatting
         run: dart format --set-exit-if-changed .
 
-      - name: � Run widget tests
+      - name: 🧩 Run widget tests
         run: flutter test test/widget_test.dart
