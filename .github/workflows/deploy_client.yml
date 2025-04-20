@@ -2,9 +2,9 @@ name: Flutter CI/CD
 
 on:
   push:
-    branches: [main]
+    branches: [main] # Запускать pipeline только при пуше в ветку main
     paths:
-      - 'client-giftly/**'
+      - 'client-giftly/**' # Учитывать изменения только в подмодуле client-giftly
 
 jobs:
   build:
@@ -14,8 +14,10 @@ jobs:
       # ----------------------
       # 1. Подготовка
       # ----------------------
-      - name: 🏗 Checkout code
+      - name: 🏗 Checkout code with submodules
         uses: actions/checkout@v4
+        with:
+          submodules: true # Инициализация подмодулей
 
       - name: 🛠 Setup Flutter
         uses: subosito/flutter-action@v2
@@ -25,20 +27,29 @@ jobs:
           cache: true
           cache-key: ${{ runner.os }}-flutter-${{ hashFiles('client-giftly/pubspec.lock') }}
 
+      # Переход в папку подмодуля
+      - name: 📂 Navigate to submodule directory
+        run: cd client-giftly
+
       # ----------------------
       # 2. Тесты и проверки
       # ----------------------
       - name: 📦 Install dependencies
         run: flutter pub get
+        working-directory: client-giftly # Указываем рабочую директорию
 
       - name: 🧪 Run unit tests
         run: flutter test
+        working-directory: client-giftly
 
       - name: 🔍 Static analysis
         run: flutter analyze
+        working-directory: client-giftly
 
       - name: 🖌 Check formatting
         run: dart format --set-exit-if-changed .
+        working-directory: client-giftly
 
       - name: 🧩 Run widget tests
         run: flutter test test/widget_test.dart
+        working-directory: client-giftly
