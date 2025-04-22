@@ -2,7 +2,3 @@
 	path = client-giftly
 	url = https://github.com/IshimoRin/client-giftly.git
 
-[submodule "server-giftly"]
-	path = server-giftly
-	url = https://github.com/Starks2121/giflty_backend.git
-
