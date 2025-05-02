@@ -4,3 +4,6 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Starks2121/giflty_backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Starks2121/backend_giftly.git
