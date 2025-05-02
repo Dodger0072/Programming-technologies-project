@@ -1,9 +1,6 @@
 [submodule "client-giftly"]
 	path = client-giftly
 	url = https://github.com/IshimoRin/client-giftly.git
-[submodule "server"]
-	path = server
-	url = https://github.com/Starks2121/giflty_backend.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Starks2121/backend_giftly.git
