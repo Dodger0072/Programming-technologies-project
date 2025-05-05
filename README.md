@@ -49,7 +49,7 @@
 + 8 группа 3 команда [Git](https://gitlab.com/rlwd/main) [чек-лист](https://gitlab.com/rlwd/main/-/blob/main/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
 ***
 ### Отчеты PM
-+ [Отчет PM 2 аттестация](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%9E%D1%82%D1%87%D0%B5%D1%82_pm_2%D0%B0%D1%82%D1%82.pdf)
++ [Отчет PM 2 аттестация](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%9E%D1%82%D1%87%D0%B5%D1%82_PM_2att.pdf)
 + [31.03.25 - 06.04.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_31.03-6.04.pdf)
 + [7.04.25 - 13.04.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_7.04-13.04.pdf)
 + [14.04.25 - 20.04.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_14.04-20.04.pdf)
