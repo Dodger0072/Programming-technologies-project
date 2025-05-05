@@ -3,7 +3,7 @@
 
 
 ### 👨‍👨‍👦‍👦 Команда (ТП-1-4)
-- [Данила Стеблев](https://github.com/danielsteblev "") - Team Lead, Project Manager;
+- [Данила Стеблев](https://github.com/danielsteblev "") - Team Lead, Project Manager, Тестировщик;
 - [Петр Мироненко](https://github.com/IshimoRin "") - Frontend разработчик;
 - [Дмитрий Кондратьев](https://github.com/Starks2121 "") - Backend разработчик.
 - [Дарья Пальчикова](https://github.com/deola-q "") - Аналитик.
