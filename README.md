@@ -40,13 +40,13 @@
 + [Видео - презентация ТЗ](https://drive.google.com/file/d/1BhGjZ7tFoYjIO4Wo1j9YUP1JnrPgwRfz/view?usp=drive_link)
 ***
 ### ✅ Чек-листы
-+ Чек-лист 1атт. [xlsx](https://docs.google.com/spreadsheets/d/12t66YL6_T-VlFuuj86yQrHgUEHzscdUTIaRtULMLzpQ/edit?gid=0#gid=0) [pdf](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82.pdf)
++ Чек-лист 1атт [xlsx](https://docs.google.com/spreadsheets/d/12t66YL6_T-VlFuuj86yQrHgUEHzscdUTIaRtULMLzpQ/edit?gid=0#gid=0) [pdf](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82.pdf)
 ***
 ### 🤝 Нас оценили
-+ 3 группа 3 команда [Git](https://github.com/qudest/voyago) [чек-лист_1атт](https://github.com/qudest/voyago/blob/main/Documentation/Check-list.pdf)
-+ 7 группа 1 команда [Git](https://github.com/TP-RENTPLACE) [чек-лист_1атт](https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/Документация/Чек-лист%201%20этап.pdf)
-+ 8 группа 1 команда [Git](https://github.com/mxnmiraii/vkatun?tab=readme-ov-file)  [чек-лист_1атт](https://github.com/mxnmiraii/Vkatun/blob/main/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/checklist_8_1.pdf)
-+ 8 группа 3 команда [Git](https://gitlab.com/rlwd/main) [чек-лист_1атт](https://gitlab.com/rlwd/main/-/blob/main/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
++ 3 группа 3 команда [Git](https://github.com/qudest/voyago) [чек-лист 1атт](https://github.com/qudest/voyago/blob/main/Documentation/Check-list.pdf)
++ 7 группа 1 команда [Git](https://github.com/TP-RENTPLACE) [чек-лист 1атт](https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/Документация/Чек-лист%201%20этап.pdf)
++ 8 группа 1 команда [Git](https://github.com/mxnmiraii/vkatun?tab=readme-ov-file)  [чек-лист 1атт](https://github.com/mxnmiraii/Vkatun/blob/main/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/checklist_8_1.pdf)
++ 8 группа 3 команда [Git](https://gitlab.com/rlwd/main) [чек-лист 1атт](https://gitlab.com/rlwd/main/-/blob/main/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B/%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82.pdf)
 ***
 ### Отчеты PM
 + [Отчет PM 2 аттестация](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%9E%D1%82%D1%87%D0%B5%D1%82_PM_2att.pdf)
