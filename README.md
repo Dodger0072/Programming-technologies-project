@@ -49,6 +49,7 @@
 ***
 ### ✅ Чек-листы
 + Чек-лист 1атт [xlsx](https://docs.google.com/spreadsheets/d/12t66YL6_T-VlFuuj86yQrHgUEHzscdUTIaRtULMLzpQ/edit?gid=0#gid=0) [pdf](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%D1%8B/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82.pdf)
++ Чек-лист 2атт [xlsx]() [pdf]()
 ***
 ### 🤝 Нас оценили
 [1 этап]()
