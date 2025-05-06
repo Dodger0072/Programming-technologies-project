@@ -59,7 +59,7 @@
 
 [2 этап]()
 + 3 группа 3 команда [Git](https://github.com/qudest/voyago) [чек-лист](https://github.com/qudest/voyago/blob/main/Documentation/Check-list.pdf) 
-+ 7 группа 1 команда [Git](https://github.com/TP-RENTPLACE) [чек-лист]([https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/Документация/Чек-лист%201%20этап.pdf](https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
++ 7 группа 1 команда [Git](https://github.com/TP-RENTPLACE) [чек-лист](https://github.com/TP-RENTPLACE/RENTPLACE/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 +  8 группа 1 команда [Git](https://github.com/mxnmiraii/vkatun?tab=readme-ov-file)  [чек-лист]([https://github.com/mxnmiraii/Vkatun/blob/main/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/checklist_8_1.pdf](https://github.com/mxnmiraii/Vkatun/blob/main/%D0%9C%D0%B5%D0%B6%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0/checklist2_8_1.pdf))
 + 8 группа 3 команда [Git](https://gitlab.com/rlwd/main) [чек-лист]()
 ***
