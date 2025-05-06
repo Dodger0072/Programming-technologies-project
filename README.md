@@ -39,6 +39,7 @@
 ***
 ### 📺 Видео по проекту
 + [Видео - презентация ТЗ](https://drive.google.com/file/d/1BhGjZ7tFoYjIO4Wo1j9YUP1JnrPgwRfz/view?usp=drive_link)
++ [Видео MVP](https://drive.google.com/file/d/1Zdwi00auYup3FM1WQXjwja6oCR5vnK85/view?usp=sharing)
 ***
 
 ### ♻️ Тестирование
