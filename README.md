@@ -25,6 +25,11 @@
 + [Jira - доска задач](https://id.atlassian.com/invite/p/jira-software?id=USvV_BNkRGSpNI60gIv9lw)
 + [Miro (Диаграммы и roadmap см. здесь)](https://miro.com/app/board/uXjVIQt8Zn0=/?share_link_id=221836199551)
 ***
+### Данные для входа
+
+
+| admin@admin.ru  | 1985  |
+
  
 ### 📄 Документация проекта
 + Предпроектное исследование [docx](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.docx) [pdf](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5/%D0%9F%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%D0%B5%20%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
