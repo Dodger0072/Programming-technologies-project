@@ -27,9 +27,9 @@
 ***
 ### Данные для входа
 
-| Login    | Password |
+| username    | Password |
 | --------- | ------- |
-| admin@admin.ru  | 1985  |
+| admin  | 1985  |
 
 
 
