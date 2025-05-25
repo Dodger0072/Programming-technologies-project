@@ -89,6 +89,7 @@
 + [14.04.25 - 20.04.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_14.04-20.04.pdf)
 + [21.04.25 - 27.04.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_21.04-27.04.pdf)
 + [28.04.25 - 11.05.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_28.04-11.05.pdf)
++ [12.05.25 - 25.05.25](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B%20PM/%D0%BE%D1%82%D1%87%D1%91%D1%82_12.05-25.05.pdf)
 
 
 
