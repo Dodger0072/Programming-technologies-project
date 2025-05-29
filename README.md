@@ -28,6 +28,8 @@
 
 ### Данные для входа
 
++ (Установочный APK файл (Android))[https://drive.google.com/file/d/1aq--UN2czmY-zrCN0UzdB5XATRgXeyw3/view?usp=sharing]
+
 Как Покупатель
 | email    | Password |
 | --------- | ------- |
