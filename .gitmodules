@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Starks2121/backend_giftly.git
+[submodule "backend_giftly"]
+	path = backend_giftly
+	url = https://github.com/danielsteblev/backend_giftly.git
