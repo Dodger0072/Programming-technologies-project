@@ -30,6 +30,11 @@
 
 + [Установочный APK файл (Android)](https://drive.google.com/file/d/1aq--UN2czmY-zrCN0UzdB5XATRgXeyw3/view?usp=sharing)
 
+#### Тестовая карта
+0000 0000 0000 0000
+
+00/00          000
+
 #### Как Покупатель
 | email    | Password |
 | --------- | ------- |
