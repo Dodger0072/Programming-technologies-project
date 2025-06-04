@@ -64,6 +64,7 @@
 + [Презентация ТЗ](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pdf)
 + [Презентация MVP](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/Giftly_MVP.pdf)
 + [Презентация предзащиты](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/Giftly_%D0%BF%D1%80%D0%B5%D0%B4%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0.pdf)
++ [Презентация защита](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/Giftly_%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0.pdf)
 ***
 ### 📺 Видео по проекту
 + [Видео - презентация ТЗ](https://drive.google.com/file/d/1BhGjZ7tFoYjIO4Wo1j9YUP1JnrPgwRfz/view?usp=drive_link)
