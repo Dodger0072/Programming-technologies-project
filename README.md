@@ -58,6 +58,7 @@
 + Правила коммитов [docx](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2.doc) [pdf](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2.pdf)
 +  [Финансовая модель](https://docs.google.com/spreadsheets/d/1kbQFjhRnAkh_y2s77WcYbAIn_lpS5xQK/edit?usp=sharing&ouid=106128977690791711365&rtpof=true&sd=true)
 +  [Схема API](https://editor.swagger.io/?url=https://gist.githubusercontent.com/Starks2121/2542d78d3d8c4f9f45325f3700e55b99/raw/fe44365c1a5f26c9b6a5015df54d07921ab272ad/openapi.yaml)
++  [Курсовая работа](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.pdf)
 ***
 ### 🎬 Презентация проекта
 + [Презентация ТЗ](https://github.com/Dodger0072/Programming-technologies-project/blob/main/docs/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pdf)
